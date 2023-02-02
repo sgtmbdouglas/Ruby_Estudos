@@ -1,0 +1,8 @@
+                Variaveis
+    Metodos Ruby
+        .chomp()
+            limpa os caracteres especiais no final da string
+    Concatenacao Ruby
+        "" + variavel +""
+    Interpolacao Ruby
+        #{}
