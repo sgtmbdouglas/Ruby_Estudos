@@ -1,0 +1,17 @@
+                Iniciando
+    Instalacao Ruby
+        sudo apt install ruby
+    Comandos
+        irb
+            iteractive ruby shell
+            escrever comando ruby
+            para sair uso o comando:
+                exit
+        puts
+            imprime na tela
+            retorna nil que e nulo
+        gets
+            pegar input do usuario
+            retorna uma string com o enter no final da string "exemplo assim\n"
+        ruby arquivo.rb
+            rodar o arquivo dentro do ruby
