@@ -1,0 +1,8 @@
+                Array
+        INCLUDES
+            <<
+                array << "dado que vai entrar"
+                para colocar dados no array usa o shovel
+        Metodos
+            .delete()
+                array.delete("dado que vai retirar")
