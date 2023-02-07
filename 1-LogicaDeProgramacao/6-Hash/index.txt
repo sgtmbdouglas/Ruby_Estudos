@@ -1,0 +1,5 @@
+                Hash
+    hash e um objeto/dicionario exempo:
+        receita = { name: 'pamonha', type: 'sobremesa' }
+        como acessar ? com simbol:
+            receita[:name]
