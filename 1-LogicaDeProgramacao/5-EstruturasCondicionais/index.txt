@@ -1,0 +1,4 @@
+                Estruturas condicionais
+        metodos:
+            string.to_i()
+                converte em inteiro oque tiver de inteiro na string
