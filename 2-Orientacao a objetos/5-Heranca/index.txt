@@ -1,0 +1,7 @@
+                Heranca
+    rodando na pratica
+        irb
+        require_relative 'account'
+        conta = Account.new(1,'douglas', 100)
+        outra_conta = Account.new(2,'xablau', 70)
+        conta.transfer(outra_conta, 10)
