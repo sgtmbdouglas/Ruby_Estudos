@@ -1,0 +1,17 @@
+                Objetos
+    as classe tem um objeto padrao initialize
+    atribuicao de atributos e com @
+    nas classes ruby todos os atributos sao privados
+    para ver na pratica o codigo:
+        irb
+        require_relative 'Account'
+        conta = Account.new(1, 'douglas', 31)
+        conta.holder
+            douglas
+        conta.holder=("xablau")
+    metodo getter
+        attr_reader
+    metodo setter
+        attr_writer
+    metodo getter e setter
+        attr_accessor

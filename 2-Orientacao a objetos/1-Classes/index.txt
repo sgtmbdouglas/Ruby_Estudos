@@ -1,0 +1,18 @@
+                orientacao a objetos
+    abstracao
+    classes:
+        ver qual tipo do objeto:
+            1.class
+                Integer
+            true.class
+                TrueClass
+            true.methods
+                retorna um array de tipos de objetos
+        instanciar hash:
+            Hash.new
+        instanciar array:
+            Array.new
+    ver o arquivo
+        irb
+        require_relative 'Account'
+        requeira o arquivo relativo onde rodei o arquivo
